@@ -1,7 +1,7 @@
 ### Hi there, I'm Arfian Cahya - aka [Arfian][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farfiancahya&screen_name=arfiancahyadwis)
+[![Twitter Follow](https://img.shields.io/twitter/follow/arfiancahyadwis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farfiancahya&screen_name=arfiancahyadwis)
 
 ## I'm a Student in Universitas Gadjah Mada!!
 
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31d2pzglkkzzlep7hchjgxnib4uy/playlist/2ENvpTX8YwHyGldZn5aZuf?si=9sQnOPmzSGqbC7z_IybAqQ)
 
 ### Connect with me:
 
