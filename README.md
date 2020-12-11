@@ -5,11 +5,11 @@
 
 ## I'm a Student in Universitas Gadjah Mada!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I just launched my last project: [Mern Stack!][course]!
+- 🌱 I also enjoy learning new things 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020 Goals: Learning and mastering Fullstack Javascript
+- ⚡ Fun fact: My hobby is draw and play guitar 
 
 ### Spotify Playing 🎧
 
@@ -49,7 +49,7 @@
 
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[course]: https://github.com/arfiancahya/mern_stack
 [twitter]: https://twitter.com/arfiancahyadwis
 [youtube]: https://www.youtube.com/channel/UCGsl4_rDgoJsghJfejXIrtQ
 [instagram]: https://instagram.com/cahyaarfian
