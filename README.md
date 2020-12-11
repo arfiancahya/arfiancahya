@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="spotify-now-playing.arfiancahya.vercel.app/" alt="arfian Spotify Playing" width="350" />](https://open.spotify.com/user/31d2pzglkkzzlep7hchjgxnib4uy)
+[<img src="https://https://spotify-now-playing.arfiancahya.vercel.app/api/spotify-playing" alt="arfian Spotify Playing" width="350" />](https://open.spotify.com/user/31d2pzglkkzzlep7hchjgxnib4uy)
 
 ### Connect with me:
 
