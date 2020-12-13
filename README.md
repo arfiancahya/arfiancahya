@@ -7,6 +7,7 @@
 
 - 🔭 I just launched my last project: [Mern Stack!][course]!
 - 🌱 I also enjoy learning new things 🤣
+- 🎨 If you want to see my UI Design: [Figma][figma]!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learning and mastering Fullstack Javascript
 - ⚡ Fun fact: My hobby is draw and play guitar 
@@ -55,3 +56,4 @@
 [jsplaylist]: https://github.com/arfiancahya
 [cssplaylist]: https://github.com/arfiancahya
 [reactplaylist]: https://github.com/arfiancahya
+[figma]: https://www.figma.com/@arfiancahya
