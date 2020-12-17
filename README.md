@@ -52,8 +52,8 @@
 [youtube]: https://www.youtube.com/channel/UCGsl4_rDgoJsghJfejXIrtQ
 [instagram]: https://instagram.com/cahyaarfian
 [linkedin]: https://www.linkedin.com/in/arfiancahya
-[webdevplaylist]: https://github.com/arfiancahya
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLM81x4SWlGyvE5MIANju_8xCk5E88tG2n
 [jsplaylist]: https://github.com/arfiancahya
-[cssplaylist]: https://github.com/arfiancahya
+[cssplaylist]: https://www.youtube.com/playlist?list=PLM81x4SWlGyvE5MIANju_8xCk5E88tG2n
 [reactplaylist]: https://github.com/arfiancahya
 [figma]: https://www.figma.com/@arfiancahya
