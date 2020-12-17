@@ -7,7 +7,7 @@
 
 - 🔭 I just launched my last project: [Mern Stack!][course]!
 - 🌱 I also enjoy learning new things 🤣
-- 🔭 I also launched my material about website developer for beginners: [Website Materials!][courseweb]!
+- 📖 I also launched my material about website developer for beginners: [Website Materials!][courseweb]!
 - 🎨 If you want to see my UI Design: [Figma][figma]!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learning and mastering Fullstack Javascript
