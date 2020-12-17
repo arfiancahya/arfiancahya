@@ -7,6 +7,7 @@
 
 - 🔭 I just launched my last project: [Mern Stack!][course]!
 - 🌱 I also enjoy learning new things 🤣
+- 🔭 I also launched my material about website developer for beginners: [Website Materials!][courseweb]!
 - 🎨 If you want to see my UI Design: [Figma][figma]!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learning and mastering Fullstack Javascript
@@ -48,6 +49,7 @@
 
 [website]: https://arfiancahya26.blogspot.com/
 [course]: https://github.com/arfiancahya/mern_stack
+[courseweb]: https://www2.slideshare.net/arfiancahyadwisetya
 [twitter]: https://twitter.com/arfiancahyadwis
 [youtube]: https://www.youtube.com/channel/UCGsl4_rDgoJsghJfejXIrtQ
 [instagram]: https://instagram.com/cahyaarfian
