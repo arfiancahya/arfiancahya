@@ -7,6 +7,7 @@
 
 - 🔭 I just launched my last project: [Mern Stack!][course]!
 - 🌱 I also enjoy learning new things 🤣
+- 🔭 I also uploaded a recording during a sharing session about creating a website using html and css : [Youtube!][youtubelist]!
 - 📖 I also launched my material about website developer for beginners: [Website Materials!][courseweb]!
 - 🎨 If you want to see my UI Design: [Figma][figma]!
 - 👯 I’m looking to collaborate with other content creators
@@ -59,3 +60,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLM81x4SWlGyvE5MIANju_8xCk5E88tG2n
 [reactplaylist]: https://github.com/arfiancahya
 [figma]: https://www.figma.com/@arfiancahya
+[youtubelist]: https://www.youtube.com/playlist?list=PLM81x4SWlGyvE5MIANju_8xCk5E88tG2n
