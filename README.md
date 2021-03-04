@@ -48,7 +48,7 @@
 <br />
 
 
-[website]: https://arfiancahya26.blogspot.com/
+[website]: https://fiancahya51.medium.com/
 [course]: https://github.com/arfiancahya/mern_stack
 [courseweb]: https://www2.slideshare.net/arfiancahyadwisetya
 [twitter]: https://twitter.com/arfiancahyadwis
