@@ -1,13 +1,13 @@
 ### Hi there, I'm Arfian Cahya - aka [Arfian][website] 👋
 
-[![Website](https://img.shields.io/website?label=arfiancahya26.blogspot.com&style=for-the-badge&url=https%3A%2F%2Farfiancahya26.blogspot.com)](https://arfiancahya26.blogspot.com/)
+[![Website](https://img.shields.io/website?label=fiancahya51.medium.com&style=for-the-badge&url=https%3A%2F%2Ffiancahya51.medium.com)](https://fiancahya51.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arfiancahyadwis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farfiancahya&screen_name=arfiancahyadwis)
 
 ## I'm a Student at Universitas Gadjah Mada!!
 
 - 🔭 I just launched my last project: [Mern Stack!][course]!
 - 🌱 I also enjoy learning new things 🤣
-- 🔭 I also uploaded a recording during a sharing session about creating a website using html and css : [Youtube!][youtubelist]!
+- 🎭 I also uploaded a recording during a sharing session about creating a website using html and css : [Youtube!][youtubelist]!
 - 📖 I also launched my material about website developer for beginners: [Website Materials!][courseweb]!
 - 🎨 If you want to see my UI Design: [Figma][figma]!
 - 👯 I’m looking to collaborate with other content creators
