@@ -11,7 +11,7 @@
 - 📖 I also launched my material about website developer for beginners: [Website Materials!][courseweb]!
 - 🎨 If you want to see my UI Design: [Figma][figma]!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learning and mastering Fullstack Javascript
+- 🥅 2021 Goals: Learning and mastering UI/UX Design
 - ⚡ Fun fact: My hobby is draw and play guitar 
 
 ### Spotify Playing 🎧
