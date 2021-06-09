@@ -5,7 +5,7 @@
 
 ## I'm a Student at Universitas Gadjah Mada!!
 
-- 🔭 I just launched my last project: [Mern Stack!][course]!
+- 🔭 I just launched my last project: [Heart Rate Monitoring!][course]!
 - 🌱 I also enjoy learning new things 🤣
 - 🎭 I also uploaded a recording during a sharing session about creating a website using html and css : [Youtube!][youtubelist]!
 - 📖 I also launched my material about website developer for beginners: [Website Materials!][courseweb]!
@@ -49,7 +49,7 @@
 
 
 [website]: https://fiancahya51.medium.com/
-[course]: https://github.com/arfiancahya/mern_stack
+[course]: https://github.com/arfiancahya/heart-rate-monitoring
 [courseweb]: https://www2.slideshare.net/arfiancahyadwisetya
 [twitter]: https://twitter.com/arfiancahyadwis
 [youtube]: https://www.youtube.com/channel/UCGsl4_rDgoJsghJfejXIrtQ
