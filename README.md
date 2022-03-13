@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=fiancahya51.medium.com&style=for-the-badge&url=https%3A%2F%2Ffiancahya51.medium.com)](https://fiancahya51.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/arfiancahyadwis?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Farfiancahya&screen_name=arfiancahyadwis)
 
-## I'm a Student at Universitas Gadjah Mada!!
+## I'm a UI/UX Designer & Researcher on Guru Inovatif.id!!
 
 - 🔭 I just launched my last project: [Heart Rate Monitoring!][course]!
 - 🌱 I also enjoy learning new things 🤣
